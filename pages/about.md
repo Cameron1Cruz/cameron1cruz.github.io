@@ -12,8 +12,6 @@ permalink: /about/
 # About
 
 I am a cybersecurity professional, and have a passion for all things tech.
-In my spare time I run this blog named CruzOnCyber. I talk about various topics
-ranging from fundamental information security to fun projects I am working on. I
-want to focus on security engineering and expand my skills into embedded systems.
-I hope this blog serves as a good track record of my work in the cyber field.
+CruzOnCyber is my blog where I share insights from the field, from the basics of infosec
+to the latest projects I'm working on. Follow along as I document my journey in the cyber world.
 
