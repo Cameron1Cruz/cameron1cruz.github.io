@@ -1,19 +1,19 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: '2024-05-10 12:00:00'
 title: About
 description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="/assets/img/uploads/ProfilePic.JPG" alt="Cameron Cruz" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a cybersecurity professional, and have a passion for all things tech.
+In my spare time I run this blog named CruzOnCyber. I talk about various topics
+ranging from fundamental information security to fun projects I am working on. I
+want to focus on security engineering and expand my skills into embedded systems.
+I hope this blog serves as a good track record of my work in the cyber field.
+
