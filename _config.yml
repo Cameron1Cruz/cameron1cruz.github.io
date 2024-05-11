@@ -29,10 +29,10 @@ menu:
 ### Used for the Contact page with legacy Formspree forms (will become obsolete in v4) ###
 email: cruzoncyber@gmail.com
 ### See: https://disqus.com/ to add comments to your posts ###
-disqus_username: disqus_username
+disqus_username: cruzoncyber
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: mzbnweqg
 
 
 # Social Media Settings
@@ -46,7 +46,7 @@ linkedin_username: cameron1cruz
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
