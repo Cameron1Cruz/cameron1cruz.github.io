@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/ProfilePic.JPG" alt="Cameron Cruz" width="200">
+<img class="img-rounded" src="/assets/img/uploads/ProfilePic.jpg" alt="Cameron Cruz" width="200">
 
 # About
 
