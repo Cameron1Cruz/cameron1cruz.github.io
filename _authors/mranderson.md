@@ -2,7 +2,7 @@
 # Author Page that displays when you click on the Author at the end of the article
 # Essentially an author Profile page for the Blog
 layout: author
-photo: /assets/img/uploads/ProfilePic.JPG
+photo: /assets/img/uploads/ProfilePic.jpg
 name: Cameron Cruz
 display_name: Cameron Cruz
 position: Cybersecurity Professional
