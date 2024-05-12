@@ -29,7 +29,7 @@ menu:
 ### Used for the Contact page with legacy Formspree forms (will become obsolete in v4) ###
 email: cruzoncyber@gmail.com
 ### See: https://disqus.com/ to add comments to your posts ###
-disqus_username: cruzoncyber
+disqus_username:
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: mzbnweqg
