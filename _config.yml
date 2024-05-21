@@ -75,7 +75,8 @@ use_logo: false
 
 # Content paginator
 paginate_content:
-  enabled: true
+  # This enables or disables pagination
+  enabled: false
   debug: false
   collections:
     - posts
