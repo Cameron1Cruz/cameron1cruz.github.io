@@ -38,14 +38,14 @@ Most of the time, when you think about the internet, you are thinking about usin
 
 > Google processes about 8.5 billion searches per day, which is equivalent to 99,000 search queries per second.
 
-Google Search uses software known as web crawlers to explore the web to find new websites to add to its index. This index is what allows users to quickly find relevant websites in near real-time to explore nearly any category. This means that Googling a website is simply a web-based search to find infromation on the internet through keywords or phrases. 
+Google Search uses software known as web crawlers to explore the web to find new websites to add to its index. This index is what allows users to quickly find relevant websites in near real-time to explore nearly any category. This means that Googling a website is simply a web-based search to find information on the internet through keywords or phrases. 
 
 
 So what happens when you Google a website? Let's say you wanted to visit Amazon to buy a few things. After opening Google Chrome, you type **Amazon.com** in the address bar, and press the enter key. The webpage instantly loads, but what just happened?
 
 ### Web Servers
 
-First, it is important to quickly define what a website really is. A website is simply a collection of files that tell your browser how to display the site and its data. These files live on a very powerful computer called a web server, whose job is to deliver the website’s contents to computers around the world. In other words, visiting a website is simply your computer connecting to a powerful computer, and recieving web content from that web server. The web content your computer recieves is rendered by the browser to load the website you requsted.
+First, it is important to quickly define what a website really is. A website is simply a collection of files that can tell your browser how to display a webpage and its data. These files are housed on a computer called a web server, whose sole purpose is to deliver these files to computers around the world. Once delivered, your computer renders the files in the browser to load the website you requsted.
 
 So now we know that **Amazon.com** is simply a collection of files and data that live on a server somewhere in the world. However, in order to connect to the web server, our computer has to know where to send a connection to.
 
