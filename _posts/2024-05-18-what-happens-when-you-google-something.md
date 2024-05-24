@@ -51,7 +51,7 @@ So now we know that **Amazon.com** is simply a collection of files and data that
 
 ### IP Addresses
 
-Luckily, all computers connected to the internet have a unique address that is used to identify and locate one another. This address is called an IP address or an internet protocol address. It is through IP addresses that computers can locate each other when they need to communicate. This means the web server that holds the files for **Amazon.com** has a unique IP address.
+Luckily, all computers connected to the internet have a unique address that's used to identify and locate one another. This address is called an IP address or an internet protocol address. It is through IP addresses that computers can locate each other when they need to communicate. This means the web server that holds the files for **Amazon.com** has a unique IP address.
 
 > You can use the command line utility **nslookup** to discover the IP address or DNS record of a specific domain name (website). This image is an example of using the tool to find one of the IP addresses for **Amazon.com**.
 
