@@ -45,7 +45,7 @@ So what happens when you Google a website? Let's say you wanted to visit Amazon 
 
 ### Web Servers
 
-First, it is important to quickly define what a website really is. A website is simply a collection of files that can tell your browser how to display a webpage and its data. These files are housed on a computer called a web server, whose sole purpose is to deliver these files to computers around the world. Once delivered, your computer renders the files in the browser to load the website you requsted.
+First, it's important to quickly define what a website really is. A website is simply a collection of files that can tell your browser how to display a webpage and its data. These files are housed on a computer called a web server, whose sole purpose is to deliver these files to computers around the world. Once delivered, your computer renders the files in the browser to load the website you requested.
 
 So now we know that **Amazon.com** is simply a collection of files and data that live on a server somewhere in the world. However, in order to connect to the web server, our computer has to know where to send a connection to.
 
