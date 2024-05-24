@@ -26,7 +26,7 @@ Who won the <a href="https://www.espn.com/mlb/worldseries/history/winners">World
 
 > The verb "Google" was added to the Oxford English Dictionary on June 15, 2006.
 
-But what really happens when we Google something? What is actually going on behind the scenes of your computer? Is Google the internet?
+But what really happens when we Google something? What's actually going on behind the scenes of your computer? Is Google the internet?
 
 ### The Internet
 
@@ -34,7 +34,7 @@ First things first, Google is not the internet. The internet is a vast network  
 
 ### Surfing the Web
 
-Most of the time, when you think about the internet, you are thinking about using a web browser to visit a website on the internet. Some popular browsers are Google Chrome, Microsoft Edge, Firefox, Safari, etc. Inside of these browsers are search engines, which allow users to search the internet for information using keywords. Search engines work to determine which websites to display in the search results, with the intention of helping users find relevant information to their query. Google Search is a leading search engine that indexes billions of web pages in less than a tenth of a second.
+Most of the time, when you think about the internet, you're thinking about using a web browser to visit a website on the internet. Some popular browsers are Google Chrome, Microsoft Edge, Firefox, Safari, etc. Inside of these browsers are search engines, which allow users to search the internet for information using keywords. Search engines work to determine which websites to display in the search results, with the intention of helping users find relevant information to their query. Google Search is a leading search engine that indexes billions of web pages in less than a tenth of a second.
 
 > Google processes about 8.5 billion searches per day, which is equivalent to 99,000 search queries per second.
 
