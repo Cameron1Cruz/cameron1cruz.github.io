@@ -30,7 +30,7 @@ But what really happens when we Google something? What is actually going on behi
 
 ### The Internet
 
-First things first, Google is not the internet. The internet is a vast network  (grouping) of computers from all over the world. This network of computers is what connects all of our ideas, data and resources. Without the internet, you wouldn’t be able to stream your favorite Netflix shows, buy your favorite Amazon items, or stay connected with your friends through social media. You wouldn’t even have the opportunity to read this blog post. So much of our daily routines and schedules revolve around the internet.
+First things first, Google is not the internet. The internet is a vast network  (grouping) of computers from all over the world. This network of computers is what connects all of our ideas, data and resources. Without the internet, you wouldn’t be able to stream your favorite Netflix shows, buy your favorite Amazon items, or stay connected with your friends through social media. You wouldn’t even have the opportunity to read this blog post. So much of our daily routine revolves around the internet.
 
 ### Surfing the Web
 
